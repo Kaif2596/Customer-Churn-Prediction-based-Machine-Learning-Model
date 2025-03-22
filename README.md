@@ -124,6 +124,8 @@ The model's performance is evaluated using the following metrics:
 
 ## 📊 Demo
 
+![image alt](https://github.com/Kaif2596/Customer-Churn-Prediction-based-Machine-Learning-Model/blob/main/Screenshot%20(20).png)
+
 
 ## 📈 Future Enhancement:
 
